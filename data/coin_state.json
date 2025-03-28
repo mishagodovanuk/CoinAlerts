@@ -1,0 +1,38 @@
+{
+    "BTCUSDT": {
+        "last_price": 87333.11,
+        "daily_high_triggered": false,
+        "daily_low_triggered": false,
+        "monthly_high_triggered": false,
+        "monthly_low_triggered": false,
+        "all_time_high_triggered": false,
+        "all_time_low_triggered": false
+    },
+    "ETHUSDT": {
+        "last_price": 2011.14,
+        "daily_high_triggered": false,
+        "daily_low_triggered": false,
+        "monthly_high_triggered": false,
+        "monthly_low_triggered": false,
+        "all_time_high_triggered": false,
+        "all_time_low_triggered": false
+    },
+    "XRPUSDT": {
+        "last_price": 2.3457,
+        "daily_high_triggered": false,
+        "daily_low_triggered": false,
+        "monthly_high_triggered": false,
+        "monthly_low_triggered": false,
+        "all_time_high_triggered": false,
+        "all_time_low_triggered": false
+    },
+    "BNBUSDT": {
+        "last_price": 640.0,
+        "daily_high_triggered": false,
+        "daily_low_triggered": false,
+        "monthly_high_triggered": false,
+        "monthly_low_triggered": false,
+        "all_time_high_triggered": false,
+        "all_time_low_triggered": false
+    }
+}
