@@ -1,6 +1,7 @@
 # services/coingecko_service.py
 import requests
 from config import COINGECKO_TOP_COINS_URL, COINGECKO_COIN_URL
+from pprint import pprint
 
 class CoinGeckoService:
     """
@@ -25,6 +26,7 @@ class CoinGeckoService:
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
+        pprint(data)
         return {
             "all_time_high": data["market_data"]["ath"]["usd"],
             "all_time_low": data["market_data"]["atl"]["usd"]
